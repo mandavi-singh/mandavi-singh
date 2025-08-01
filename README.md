@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mandavi Singh!
 
-🎓 Data Science & AI student at **IIT Guwahati (Online Degree)**    
+🎓 Data Science & AI student at **IIT Guwahati**    
 💻 Passionate about solving real-world problems using Machine Learning and AI  
 🧠 Always curious to learn something new in tech and innovation  
 🌐 Visit my [Kaggle](https://www.kaggle.com/mandavisingh) | [LinkedIn](https://www.linkedin.com/in/mandaviofficial)
