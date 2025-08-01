@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Mandavi Singh!
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Mandavi+Singh;Data+Science+%7C+AI+@+IIT+Guwahati;Always+Learning+and+Building+💡)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="working girl gif" />
