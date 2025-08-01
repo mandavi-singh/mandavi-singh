@@ -6,13 +6,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="working girl gif" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="anime girl coding" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="typing girl" />
-</p>
-<p align="center">
+
+<p align="left">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="girl working on laptop" />
 </p>
 
