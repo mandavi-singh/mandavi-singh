@@ -1,4 +1,20 @@
 # 👋 Hi there, I'm Mandavi Singh!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Mandavi+Singh;Data+Science+%7C+AI+@+IIT+Guwahati;Always+Learning+%26+Building+💡" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="working girl gif" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mandavi-singh">
+    <img src="https://komarev.com/ghpvc/?username=mandavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="mandavi-singh" />
+  </a>
+</p>
+
+---
+# 👩‍💻 About Me
 
 🎓 Data Science & AI student at **IIT Guwahati**    
 💻 Passionate about solving real-world problems using Machine Learning and AI  
@@ -40,6 +56,16 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandavi-singh&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandavi-singh&layout=compact&theme=radical" width="48%" />
+</div>
+
+---
+
 ## 🧩 Fun Facts
 
 - 🌟 I love turning messy data into meaningful stories.
@@ -49,3 +75,5 @@
 ---
 
 > 💬 *“Learning never exhausts the mind.” – Leonardo da Vinci*
+> <!-- ![snake gif](https://github.com/mandavi-singh/mandavi-singh/blob/output/github-contribution-grid-snake.svg) -->
+
