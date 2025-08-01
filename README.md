@@ -3,11 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Mandavi+Singh;Data+Science+%7C+AI+@+IIT+Guwahati;Always+Learning+and+Building+💡)
 
 <p align="center">
-  <img src="https://media.tenor.com/example.gif" width="300" alt="anime girl working on laptop" />
+  <img src="https://github.com/mandavi-singh/mandavi-singh/blob/main/"C:\Users\singh\Downloads\FireShot\lofi-anime-girl-programming-computer-woman-working-laptop-cozy-dramatic-lighting-against-background-cityscapes-315625791 (1).webp".webp?raw=true" width="600" alt="Anime Girl Coding" />
 </p>
-<p align="center">
-  <img src="https://...your-hosted-url..." width="300" alt="lo-fi anime girl working on laptop">
-</p>
+
 
 
 
