@@ -10,6 +10,9 @@
 <p align="left">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="girl working on laptop" />
 </p>
+<p align="center">
+  <img src="images/unnamed.png" width="300" alt="working girl" />
+</p>
 
 
 
