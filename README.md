@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="working girl gif" />
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/7gkGp4fPYgsAAAAd/anime-girl-working.gif" width="300" alt="working girl gif" />
+</p>
 
 
 
