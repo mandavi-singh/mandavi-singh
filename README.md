@@ -3,8 +3,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Mandavi+Singh;Data+Science+%7C+AI+@+IIT+Guwahati;Always+Learning+and+Building+💡)
 
 <p align="center">
-  <img src="https://github.com/mandavisingh/mandavisingh/blob/main/anime-coding-girl.webp?raw=true" width="600" alt="Anime Girl Coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Mandavi+Singh;Data+Science+%7C+AI+@+IIT+Guwahati;Always+Learning+and+Building+💡" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.tenor.com/7gkGp4fPYgsAAAAd/anime-girl-working.gif" width="300" alt="anime girl coding" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mandavi-singh">
+    <img src="https://komarev.com/ghpvc/?username=mandavi-singh&label=Profile%20views&color=0e75b6&style=flat"/>
+  </a>
+</p>
+
 
 
 
