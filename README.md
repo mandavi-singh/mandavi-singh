@@ -3,11 +3,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Mandavi+Singh;Data+Science+%7C+AI+@+IIT+Guwahati;Always+Learning+and+Building+💡)
 
 <p align="center">
-  <img src="https://tenor.com/view/girl-work-laptop-hat-gif-13285486486268649211" width="300" alt="realistic woman working on laptop" />
+  <img src="https://media.tenor.com/example.gif" width="300" alt="anime girl working on laptop" />
 </p>
 <p align="center">
-  <img src="https://www.motionelements.com/stock-image-24228979-woman-in-the-kitchen-working-on-a-laptop-work-from-home-remotely" width="300" alt="woman working from home" />
+  <img src="https://...your-hosted-url..." width="300" alt="lo-fi anime girl working on laptop">
 </p>
+
 
 
 
