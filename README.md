@@ -20,8 +20,6 @@
 - 💬 **[Arogya Mitra](https://github.com/mandavi-singh/arogya-mitra)**  
    An AI-based chatbot for symptom-based disease prediction.
 
-- 🧓 **[Age Group Classification](https://github.com/mandavi-singh/age-group-classification-ml-model)**  
-   Classification of individuals into age categories using image or structured data.
 
 ---
 
