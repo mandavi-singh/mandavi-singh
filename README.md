@@ -7,12 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/7gkGp4fPYgsAAAAd/anime-girl-working.gif" width="300" alt="working girl gif" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="anime girl coding" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="typing girl" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="girl working on laptop" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JrXYVzVPT2NVy/giphy.gif" width="300" alt="anime girl coding" />
-</p>
 
 
 
