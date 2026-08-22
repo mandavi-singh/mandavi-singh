@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1B4B8F&height=220&section=header&text=Hi%20There,%20I%20am%20Mandavi%20Singh&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%40%20IIT%20Guwahati&descAlignY=55&descSize=18" width="100%"/>
+# Hi there, I am Mandavi Singh 👋
+### Data Science & AI @ IIT Guwahati
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1B4B8F&center=true&vCenter=true&width=600&lines=Building+ML+for+Signals+%26+Sensors;OSA+vs+CSA+Sleep+Apnea+Classification;Wearable+IMU-Based+Fall+Detection;Computational+Phonetics+Research" alt="Typing SVG" />
 
@@ -91,12 +92,12 @@ Applied machine learning project.
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mandavi-singh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A1F44&title_color=6C9BE8&icon_color=6C9BE8&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandavi-singh&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A1F44&title_color=6C9BE8&text_color=FFFFFF" width="43%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=mandavi-singh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A1F44&title_color=6C9BE8&icon_color=6C9BE8&text_color=FFFFFF" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mandavi-singh&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A1F44&title_color=6C9BE8&text_color=FFFFFF" width="43%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandavi-singh&hide_border=true&theme=tokyonight&background=0A1F44&ring=6C9BE8&fire=6C9BE8&currStreakLabel=6C9BE8" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=mandavi-singh&hide_border=true&theme=tokyonight&background=0A1F44&ring=6C9BE8&fire=6C9BE8&currStreakLabel=6C9BE8" width="60%"/>
 
 <br/><br/>
 
