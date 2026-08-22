@@ -3,6 +3,8 @@
 # Hi there, I am Mandavi Singh 👋
 ### Data Science & AI @ IIT Guwahati
 
+<img src="https://media.giphy.com/media/qgQUggACg3Pfv687qPC/giphy.gif" width="280"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1B4B8F&center=true&vCenter=true&width=600&lines=Building+ML+for+Signals+%26+Sensors;OSA+vs+CSA+Sleep+Apnea+Classification;Wearable+IMU-Based+Fall+Detection;Computational+Phonetics+Research" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A1F44?style=for-the-badge&logo=vercel&logoColor=white)](https://mandavi-singh-portfolio.vercel.app)
@@ -108,3 +110,4 @@ Applied machine learning project.
 <br/>
 
 > 💬 *"Learning never exhausts the mind." – Leonardo da Vinci*
+
