@@ -20,15 +20,7 @@
 
 ## ⚡ About Me
 
-```yaml
-name:       Mandavi Singh
-role:       Final-year B.S. (Honors), Data Science & AI @ IIT Guwahati
-research:
-  - 🫁 Sleep Apnea Subtype Classification (OSA vs CSA)   — with Dr. Ritika Jain
-  - 📟 Wearable Sensor-Based Fall Detection              — Hybionics Internship
-  - 🗣️ Computational Phonetics                           — with Dr. Neeraj Sharma
-currently: Turning noisy signals (ECG, IMU, speech) into clean insight
-```
+Final-year B.S. (Honors), Data Science & AI @ IIT Guwahati — working on sleep apnea classification, wearable fall detection, and computational phonetics.
 
 <br/>
 
@@ -82,10 +74,11 @@ Applied machine learning project.
 
 ![Python](https://img.shields.io/badge/Python-0A1F44?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1B4B8F?style=for-the-badge&logo=pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-0A1F44?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1B4B8F?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-0A1F44?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1B4B8F?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0A1F44?style=for-the-badge&logo=jupyter&logoColor=white)
+![C](https://img.shields.io/badge/C-1B4B8F?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0A1F44?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-1B4B8F?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0A1F44?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
@@ -110,4 +103,5 @@ Applied machine learning project.
 <br/>
 
 > 💬 *"Learning never exhausts the mind." – Leonardo da Vinci*
+
 
