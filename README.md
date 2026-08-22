@@ -3,7 +3,7 @@
 # Hi there, I am Mandavi Singh 👋
 ### Data Science & AI @ IIT Guwahati
 
-<img src="https://media.giphy.com/media/qgQUggACg3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1B4B8F&center=true&vCenter=true&width=600&lines=Building+ML+for+Signals+%26+Sensors;OSA+vs+CSA+Sleep+Apnea+Classification;Wearable+IMU-Based+Fall+Detection;Computational+Phonetics+Research" alt="Typing SVG" />
 
