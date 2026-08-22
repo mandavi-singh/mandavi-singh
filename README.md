@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1B4B8F&height=220&section=header&text=Hi%20There!%20I'm%20Mandavi%20Singh&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%40%20IIT%20Guwahati&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1B4B8F&height=220&section=header&text=Hi%20There,%20I%20am%20Mandavi%20Singh&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%40%20IIT%20Guwahati&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1B4B8F&center=true&vCenter=true&width=600&lines=Building+ML+for+Signals+%26+Sensors;OSA+vs+CSA+Sleep+Apnea+Classification;Wearable+IMU-Based+Fall+Detection;Computational+Phonetics+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1B4B8F&center=true&vCenter=true&width=600&lines=Building+ML+for+Signals+%26+Sensors;OSA+vs+CSA+Sleep+Apnea+Classification;Wearable+IMU-Based+Fall+Detection;Computational+Phonetics+Research" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A1F44?style=for-the-badge&logo=vercel&logoColor=white)](https://mandavi-singh-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4B8F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandaviofficial)
@@ -107,5 +107,3 @@ Applied machine learning project.
 <br/>
 
 > 💬 *"Learning never exhausts the mind." – Leonardo da Vinci*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4B8F,100:0A1F44&height=100&section=footer" width="100%"/>
