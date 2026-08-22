@@ -1,63 +1,111 @@
-# 👋 Hi there, I'm Mandavi Singh!
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hi+there%21+I'm+Mandavi+Singh%3B+Data+Science+%2B+AI+%40+IIT+Guwahati%3B+Always+Learning+and+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1B4B8F&height=220&section=header&text=Hi%20There!%20I'm%20Mandavi%20Singh&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%40%20IIT%20Guwahati&descAlignY=55&descSize=18" width="100%"/>
 
-![working girl gif](https://media.giphy.com/media/qgQUggACg3Pfv687qPC/giphy.gif)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1B4B8F&center=true&vCenter=true&width=600&lines=Building+ML+for+Signals+%26+Sensors;OSA+vs+CSA+Sleep+Apnea+Classification;Wearable+IMU-Based+Fall+Detection;Computational+Phonetics+Research" alt="Typing SVG" />
 
-[![mandavi-singh](https://komarev.com/ghpvc/?username=mandavi-singh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mandavi-singh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A1F44?style=for-the-badge&logo=vercel&logoColor=white)](https://mandavi-singh-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4B8F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandaviofficial)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mandavisingh)
+[![Email](https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.mandavi@op.iitg.ac.in)
 
----
+<img src="https://komarev.com/ghpvc/?username=mandavi-singh&label=Profile%20Views&color=1B4B8F&style=for-the-badge" />
 
-## 👩‍💻 About Me
+</div>
 
-🎓 Final-year **B.S. (Honors), Data Science & AI**, IIT Guwahati
-🔬 Researching **sleep apnea subtype classification** (OSA vs. CSA) with Dr. Ritika Jain
-📟 Working on **wearable sensor-based fall detection** as part of a Hybionics internship
-🗣️ Doing **computational phonetics research** with Dr. Neeraj Sharma
-🌐 [Portfolio](https://mandavi-singh-portfolio.vercel.app) | [Kaggle](https://www.kaggle.com/mandavisingh) | [LinkedIn](https://www.linkedin.com/in/mandaviofficial)
+<br/>
 
----
+## ⚡ About Me
 
-## 🔥 What I'm Working On
+```yaml
+name:       Mandavi Singh
+role:       Final-year B.S. (Honors), Data Science & AI @ IIT Guwahati
+research:
+  - 🫁 Sleep Apnea Subtype Classification (OSA vs CSA)   — with Dr. Ritika Jain
+  - 📟 Wearable Sensor-Based Fall Detection              — Hybionics Internship
+  - 🗣️ Computational Phonetics                           — with Dr. Neeraj Sharma
+currently: Turning noisy signals (ECG, IMU, speech) into clean insight
+```
 
-- 🫁 **Sleep Apnea Subtype Classification** — ECG/physiological signal-based OSA vs. CSA detection using CNN-Transformer and ConCAD (Contrastive Cross-Attention Dual-branch) architectures fusing ECG, RRI, RPE, and Mel spectrogram modalities across PhysioNet Apnea-ECG, UCDDB, and MIT-BIH slpdb datasets.
+<br/>
 
-- 🏃 **[Wearable IMU-Based Fall Detection](https://github.com/mandavi-singh/fall-detection-cnn-lstm)** — Cross-dataset CNN-LSTM comparison between SisFall and FallAllD with identical configurations (waist-only, 6 features, 50Hz, LOSO CV). Best results: SisFall AUC 98.81%, FallAllD AUC 86.67%.
+## 🔬 Featured Work
 
-- 🌾 **[AgriIntel](https://github.com/mandavi-singh/AgriIntel)** — Applied ML project.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🗣️ **[PHOIBLE Phonetics Project](https://github.com/mandavi-singh/phoible-project)** — Computational phonetics research replicating and extending the humidity-vowel hypothesis using PHOIBLE 2.0, with a focus on Indian languages.
+### 🫁 Sleep Apnea Classification
+ConCAD (Contrastive Cross-Attention Dual-branch) architecture fusing ECG, RRI, RPE & Mel spectrogram signals across PhysioNet Apnea-ECG, UCDDB, and MIT-BIH slpdb.
 
----
+`PyTorch` `NeuroKit2` `Signal Processing`
 
-## 🛠️ Skills
+</td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🏃 [Fall Detection](https://github.com/mandavi-singh/fall-detection-cnn-lstm)
+Cross-dataset CNN-LSTM comparison (SisFall vs FallAllD), LOSO CV.
+**SisFall AUC: 98.81%** · **FallAllD AUC: 86.67%**
 
----
+`CNN-LSTM` `IMU` `Cross-Dataset Eval`
 
-## 📊 GitHub Stats
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Mandavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandavi-singh&show_icons=true&theme=radical)](https://github.com/mandavi-singh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandavi-singh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🗣️ [PHOIBLE Phonetics](https://github.com/mandavi-singh/phoible-project)
+Replicating and extending the humidity–vowel hypothesis (Everett 2017) with PHOIBLE 2.0, focused on Indian languages.
 
----
+`Computational Linguistics` `PHOIBLE`
 
-## 🧩 Fun Facts
+</td>
+<td width="50%" valign="top">
 
-- 🌟 I love turning messy data into meaningful stories.
-- 🎨 I enjoy creating clean UI layouts in my free time.
-- 📚 I'm a continuous learner, always exploring new tools and tech trends.
+### 🌾 [AgriIntel](https://github.com/mandavi-singh/AgriIntel)
+Applied machine learning project.
 
----
+`Machine Learning`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0A1F44?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1B4B8F?style=for-the-badge&logo=pytorch&logoColor=white)
+![C](https://img.shields.io/badge/C-0A1F44?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1B4B8F?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-0A1F44?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1B4B8F?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mandavi-singh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A1F44&title_color=6C9BE8&icon_color=6C9BE8&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandavi-singh&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A1F44&title_color=6C9BE8&text_color=FFFFFF" width="43%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandavi-singh&hide_border=true&theme=tokyonight&background=0A1F44&ring=6C9BE8&fire=6C9BE8&currStreakLabel=6C9BE8" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mandavi-singh&hide_border=true&bg_color=0A1F44&color=6C9BE8&line=6C9BE8&point=FFFFFF&theme=react-dark" width="90%"/>
+
+</div>
+
+<br/>
 
 > 💬 *"Learning never exhausts the mind." – Leonardo da Vinci*
 
-📫 Reach me: **s.mandavi@op.iitg.ac.in**
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4B8F,100:0A1F44&height=100&section=footer" width="100%"/>
