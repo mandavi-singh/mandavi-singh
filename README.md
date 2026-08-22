@@ -92,7 +92,7 @@ Applied machine learning project.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=mandavi-singh&hide_border=true&theme=tokyonight&background=0A1F44&ring=6C9BE8&fire=6C9BE8&currStreakLabel=6C9BE8" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mandavi-singh&hide_border=true&theme=tokyonight&background=0A1F44&ring=6C9BE8&fire=6C9BE8&currStreakLabel=6C9BE8" width="60%"/>
 
 <br/><br/>
 
@@ -103,5 +103,3 @@ Applied machine learning project.
 <br/>
 
 > 💬 *"Learning never exhausts the mind." – Leonardo da Vinci*
-
-
